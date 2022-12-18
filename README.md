@@ -8,4 +8,5 @@ Envanter Yönetim Sistemi Projesidir, klasösere gerekli veritabanı dosyaları 
 
 ![anamenu](https://user-images.githubusercontent.com/115365153/208294129-82b95e9d-cdf1-4a72-880b-1045836184a7.png)
 
-![anamenu](https://user-images.githubusercontent.com/115365153/208294140-a6a71172-618e-437e-8f1f-3e58cfb1e951.png)
+![siparişyönetim](https://user-images.githubusercontent.com/115365153/208294153-685639ab-2fe8-43a5-b197-8c8a9c3de467.png)
+
