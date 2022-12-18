@@ -1,6 +1,6 @@
 ------------------------------------------------------
-Kullanıcı Adı= Admin
-Şifre = Admin
+Kullanıcı Adı= admin
+Şifre = admin
 ------------------------------------------------------
 Envanter Yönetim Sistemi Projesidir, klasösere gerekli veritabanı dosyaları koyulmuştur attach ederek görüntüliyebilirsiniz.
 
