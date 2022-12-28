@@ -2,7 +2,7 @@
 Kullanıcı Adı= admin
 Şifre = admin
 ------------------------------------------------------
-Envanter Yönetim Sistemi Projesidir, klasösere gerekli veritabanı dosyaları koyulmuştur attach ederek görüntüliyebilirsiniz.
+Envanter Yönetim Sistemi Projesidir, klasöre gerekli veritabanı dosyaları koyulmuştur attach ederek açabilirsiniz.
 
 ![login](https://user-images.githubusercontent.com/115365153/208294118-67c9d6f9-8dbf-4f1a-baee-ea64ae867d31.png)
 
